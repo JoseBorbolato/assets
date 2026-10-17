@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="207 168 880 880">
+<title>Nexion</title>
+<defs><linearGradient id="nx-g" gradientUnits="userSpaceOnUse" x1="300" y1="828" x2="987" y2="403"><stop offset="0" stop-color="#00BCD6"/><stop offset="1" stop-color="#66F0FF"/></linearGradient></defs>
+<g fill="none" stroke="#000E35" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+<path d="M303.5 721 L303.5 440 Q303.5 416 323 404 L630 220 Q651 212 672 221 L886 357"/>
+<path d="M985.5 512 L985.5 795 Q985.5 820 964 833 L672 1009 Q651 1022 630 1009 L395 862"/>
+</g>
+<path d="M299.5 827.5 L513.5 614.5 L651 733.5 L987 403" fill="none" stroke="url(#nx-g)" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="299.5" cy="827.5" r="52" fill="#0CC0D8"/>
+<g fill="#FFFFFF" stroke="#000E35" stroke-width="24">
+<circle cx="513.5" cy="614.5" r="38"/>
+<circle cx="651" cy="733.5" r="38"/>
+<circle cx="987" cy="403" r="40"/>
+</g>
+</svg>
